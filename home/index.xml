@@ -8,7 +8,57 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jason C. Wong</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jasoncwong.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jasoncwong.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/home/about/</guid>
+      <description>Biography Jason Wong is a Ph.D. Candidate in Sustainable Development at Columbia University.
+Jason is interested in the impact of technology and infrastructure in regional socioeconomic outcomes and environmental decision making. His dissertation focuses on the impact of aviation connectivity on regional economies and innovation, climate change impacts on aviation, and improving carbon offsets. He also works on electricity infrastructure and energy poverty in India. He won the 2017 Presidential Award for Outstanding Teaching at Columbia University.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jasoncwong.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://jasoncwong.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/home/teaching/</guid>
+      <description>At Columbia University, I am instructor or co-instructor for the following courses:
+ SDEV UN2300: Challenges of Sustainable Development (Spring 2016, Spring 2017, Spring 2018) ECON S4625: Economics of the Environment (Summer 2017)  In addition, I have taught or assisted in a number of sustainability-related courses at various institutions:
+ SUS 7400C: Economics of Sustainability, Instructor, City College of New York (Spring 2017) ECON W4625: Economics of the Environment, TA, Columbia University (Fall 2015) ES 100: Environmental Systems Science, Section Leader, New York University (Fall 2015) SDEV W2300: Challenges of Sustainable Development, TA, Columbia University (Spring 2015) ECON W4750: Globalization and its Risks, TA, Columbia University (Fall 2014) Leuphana Digital School: ThinkTank: Ideal City of the 21st Century (Spring 2013) AREC 200: The Chesapeake Bay Ecosystem - Science, Economics, and Policy, TA, University of Maryland (Spring 2012) CPSP 118G/239G: Science and Global Change, TA, University of Maryland (Fall 2011, Spring 2012)  </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://jasoncwong.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/home/cv/</guid>
+      <description>You can find my latest CV  here.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jasoncwong.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
