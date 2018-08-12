@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Field on Jason C. Wong</title>
+    <link>https://jasoncwong.github.io/tags/field/</link>
+    <description>Recent content in Field on Jason C. Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jason C. Wong</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jasoncwong.github.io/tags/field/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rural Energy Access</title>
+      <link>https://jasoncwong.github.io/project/india/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/project/india/</guid>
+      <description>This is part of joint work with Johannes Urpelainen (JHU SAIS) and Brian Blankenship (Dartmouth).
+Quality of electricity service remains poor in many developing countries such as India. To improve service, increased payments would be necessary as utilities readily suffer large losses. Are people not willing to pay for better electricity quality because they feel entitled to electricity provision, or is it because they do not trust one another to also do their part?</description>
+    </item>
+    
+    <item>
+      <title>To Steal, or Not to Steal</title>
+      <link>https://jasoncwong.github.io/project/india2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/project/india2/</guid>
+      <description>This is part of joint work with Johannes Urpelainen (JHU SAIS) and Brian Blankenship (Dartmouth).
+Existing policies have failed to curb electricity theft and remains a focus of the new Saubhagya scheme. We study of public opinions towards electricity theft in order to inform policy design that could generate better public buy-in. We propose new hypotheses on understanding public acceptance for electricity theft. The first is that electricity theft is more acceptable when electricity supply quality is poor and household income levels are low, i.</description>
+    </item>
+    
+  </channel>
+</rss>

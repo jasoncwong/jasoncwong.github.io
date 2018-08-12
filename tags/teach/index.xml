@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teach on Jason C. Wong</title>
+    <link>https://jasoncwong.github.io/tags/teach/</link>
+    <description>Recent content in Teach on Jason C. Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jason C. Wong</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jasoncwong.github.io/tags/teach/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Environmental Economics</title>
+      <link>https://jasoncwong.github.io/project/les/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/project/les/</guid>
+      <description>ECON S4625, Columbia University Environmental Economics is my favorite courses to teach. When I taught the course in the summer of 2017, I was able to use New York City as a backdrop to the issues and models we were learning in class. For example, we visited the Lower East Side Ecology Center to learn more about the causes of water pollution and the value of the ecosystem services provided by estuarine organisms.</description>
+    </item>
+    
+    <item>
+      <title>Sustainable Development</title>
+      <link>https://jasoncwong.github.io/project/bard/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/project/bard/</guid>
+      <description>SDEV UN2300, Columbia University For the past three years, I have been co-teaching Challenges of Sustainable Development, the core social science course in the undergraduate Sustainable Development program. In the Spring of 2017, I redesigned the course with my co-teacher. A significant portion of the coursework became dedicated to a real-world sustainability challenge. A major assignment was on the haze issue faced by Singapore and other countries in Southeast Asia was; students had the choice of traditional writing assignments or to participate in a &amp;ldquo;Hackathon-style&amp;rdquo; project, where they would propose a creative solution to the issue.</description>
+    </item>
+    
+  </channel>
+</rss>

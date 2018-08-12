@@ -13,12 +13,21 @@
     
     
     <item>
-      <title>Rural Energy Access in Uttar Pradesh, India</title>
-      <link>https://jasoncwong.github.io/project/india/</link>
+      <title>Blue-sky Thinking</title>
+      <link>https://jasoncwong.github.io/project/aviation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jasoncwong.github.io/project/india/</guid>
-      <description>To be added.</description>
+      <guid>https://jasoncwong.github.io/project/aviation/</guid>
+      <description>Connectivity Impacts on Regional Economies and Innovation in the United States This paper uses applied microeconomics techniques to investigate the impact of aviation connectivity on 548 regional economies in the United States. Using lagged socioeconomic variables to instrument for future aviation connectivity, the paper finds a significant impact of connectivity on long-run economic growth. An increase of 100 in the city’s Global Connectivity Index is associated with an increase in long-term total personal income of the city by up to $254,350,000, and up to 613 more jobs, and 7 more granted patents.</description>
+    </item>
+    
+    <item>
+      <title>Coastal Resilience</title>
+      <link>https://jasoncwong.github.io/project/noaa/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/project/noaa/</guid>
+      <description>Does coastal weather risk affect the socioeconomic structures of coastal communities? Environmental disasters, whether natural or anthropogenic, create shocks and disruptions in local economies. The long-term socio-economic well-being of coastal communities includes economic resilience – the ability of local economies to withstand the impacts of environmental disasters. A conventional wisdom in economics is that economic diversity promotes stability, by allowing for the local economy to be less sensitive to exogenous fluctuations.</description>
     </item>
     
   </channel>

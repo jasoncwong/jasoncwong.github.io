@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy on Jason C. Wong</title>
+    <link>https://jasoncwong.github.io/tags/policy/</link>
+    <description>Recent content in Policy on Jason C. Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jason C. Wong</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jasoncwong.github.io/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coastal Resilience</title>
+      <link>https://jasoncwong.github.io/project/noaa/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/project/noaa/</guid>
+      <description>Does coastal weather risk affect the socioeconomic structures of coastal communities? Environmental disasters, whether natural or anthropogenic, create shocks and disruptions in local economies. The long-term socio-economic well-being of coastal communities includes economic resilience – the ability of local economies to withstand the impacts of environmental disasters. A conventional wisdom in economics is that economic diversity promotes stability, by allowing for the local economy to be less sensitive to exogenous fluctuations.</description>
+    </item>
+    
+    <item>
+      <title>German Democracy Up-Close</title>
+      <link>https://jasoncwong.github.io/project/ips/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasoncwong.github.io/project/ips/</guid>
+      <description>International Parliamentary Fellowship, German Parliament (Bundestag)
+In the Spring of 2018, I was one of eight Americans chosen to be part of an international program at the German Bundestag. 116 Fellows from 40 countries got to experience the German parliamentary democracy up-close: from the formation of the new Grand Coalition government to the setting of the federal budget. Fellow are paired with a Member of Parliament (MdB) and work closely in their office to gain insight in the day-to-day operation of the German government.</description>
+    </item>
+    
+  </channel>
+</rss>
